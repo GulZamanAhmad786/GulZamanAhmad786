@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gul_Zaman_Ahmad)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/iamgulzamanahmad/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GulZamanAhmad786.GulZamanAhmad786)
 
 I am a Computer Science student eager to learn new technologies having the qualities of a capable leader.
 I love to play with data. I am a python developer and currently, I am working in Data Science and Machine Learning. I have completed various Data Analysis and Data Science projects. I have expertise in C++, Java, C# Python, and Data Analysis. I have been working in this field for more than a year now.
